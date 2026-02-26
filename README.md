@@ -7,8 +7,8 @@ I'm keenan a tech enthusiasts thats into everything tech ai and crypto related.
 
 ## 🔍 Currently
 
-- 🧠 Exploring AI applications
-- ⚙️ Building a beekeeping Game
-- 🛠️ Actively wanting to contributing to open-source projects  
+- 🧠 openclaw * github * eissues = 100x productivity. :)
+- ⚙️ Building a beekeeping Gama an automation software for hosting a full hosting panel
+- 🛠️ Actively wanting to contributing to open-source projects reach out ay any time
 
 ---
