@@ -1,57 +1,70 @@
-👋 Hi there!  
-I’m **Keenan** (BeeSting50) – a lifelong coder, AI enthusiast, and crypto aficionado.  
-🏗️ I build *full‑stack development pipelines* and experiment with generative AI **daily**.  
+<div align="center">
 
----  
+# Keenan Cameron
 
-## 📊 Quick Stats  
+### Founder at SuperK Studios · Full-stack builder · AI automation enthusiast
 
-- **Public repositories**: **6**  
-- **Total commits**: **300**+  
-- **Followers**: **24** | **Following**: **8**  
-- **Stargazers**: **0**+
-- **Contributions**: 365+ days of consistent pushes & code reviews  
+I turn ambitious ideas into working software—from product design and application code
+to infrastructure, deployment, and the automation that keeps everything moving.
 
----  
+[![SuperK Studios](https://img.shields.io/badge/SuperK_Studios-superk.studio-E11D48?style=for-the-badge)](https://superk.studio)
+[![GitHub](https://img.shields.io/badge/GitHub-BeeSting50-181717?style=for-the-badge&logo=github)](https://github.com/BeeSting50)
+[![Email](https://img.shields.io/badge/Email-keenan.cameron%40superk.studio-0A66C2?style=for-the-badge)](mailto:keenan.cameron@superk.studio)
 
-## 🚀 Current Projects (BeeSting50)  
+</div>
 
-| Project | Description | Repo |
-|---------|--------------|------|
-| Partical | The place for proffesionals not gamers.  | A community driven proffesional development communication platform |
-| Scamcheck.cash | Coming soon | Stop scams once and for all |
-| SuperPanel | Self Hosted hosting. | Dont over pay for a ui and premium features just to host content. |
-| system‑prompts‑and‑models‑of‑ai‑tools | Forked repo of various AI prompts and tools. | [BeeSting50/system-prompts-and-models-of-ai-tools](https://github.com/BeeSting50/system-prompts-and-models-of-ai-tools) |
-| ubicloud | Open‑source AWS alternative. | [BeeSting50/ubicloud](https://github.com/BeeSting50/ubicloud) |
-| worldwide‑dj‑app | worldwide DJ app. | [BeeSting50/worldwide-dj-app](https://github.com/BeeSting50/worldwide-dj-app) |
----  
+---
 
-## 🚀 Current Projects (superkstudios)  
+## What I’m building
 
-Home- Home of Superk Studios | https://superk.studio
-SuperPanel- A full website and github deployment hosting panel
-Partical- Communication Platform
-10 other projects coming soon.
----  
+I work across two connected tracks: building products through **SuperK Studios** and
+exploring new ideas through personal projects. My focus is practical software that
+removes busywork, gives people better tools, and can grow into a real product.
 
-## 🌱 Knowledge & Skills  
+### SuperK Studios
 
-- **Languages**: Python 3, JavaScript/TypeScript, Go, Rust, Bash, TypeScript  
-- **Frameworks**: Next.js, Express, FastAPI, NestJS, React Native, Flask  
-- **ML/AI**: I use Codex and claude to code and ship quickly always into new emerging tech
-- **DevOps**: GitHub Actions, Docker, Kubernetes, Terraform, Ansible, GitOps  
-- **Infrastructure**: AWS, GCP, Azure, DigitalOcean, Hetzner, Self‑hosted anything
----  
+| Product | What it’s for |
+| --- | --- |
+| [SuperK](https://superk.studio) | A connected company workspace for projects, communication, agents, business operations, and automation. |
+| SuperPanel | Self-hosted website and GitHub deployment management without unnecessary platform overhead. |
+| ScamCheck | Tools designed to help people recognize and avoid scams. |
+| Partical | A professional communication platform centered on productive communities. |
 
-## 📬 Reach Out  
+Much of this work is developed in private repositories while it is being prepared for
+release. Public projects and documentation will be linked here as they are ready.
 
-I’m looking to collaborate on open‑source, discuss state‑of‑the‑art AI, or help fellow devs build better tooling.  
-Drop a DM, open an issue in one of my repos, or comment in the Discord thread – I’ll reply ASAP.  
+### Personal and open work
 
-Email: keenan.cameron@superk.studio
+| Project | Focus |
+| --- | --- |
+| [FarmForHoney Frontend](https://github.com/BeeSting50/FarmForHoney-Frontend) | A TypeScript frontend project and public development workspace. |
+| AI-assisted development | Experiments with coding agents, workflow design, and turning natural-language requests into tested changes. |
+| Self-hosted infrastructure | Practical hosting, deployment automation, server operations, and tools that reduce platform lock-in. |
 
-> “Building something great is less about the code and more about the community that supports it.”  
+---
 
----  
+## How I work
 
-⚡ **GitHub Stats** (<https://github.com/BeeSting50>)
+- **Build end to end** — product direction, UI, APIs, data models, infrastructure, and release.
+- **Automate repeatable work** — agents and workflows should complete real tasks, not stop at suggestions.
+- **Ship and improve** — get working software in front of people, inspect the result, and keep refining it.
+- **Stay curious** — I actively explore emerging AI, developer tooling, security, and infrastructure.
+
+## Tools I use
+
+`TypeScript` · `JavaScript` · `Python` · `React` · `Node.js` · `FastAPI`<br>
+`Docker` · `GitHub Actions` · `Linux` · `Cloudflare` · `AWS` · `Self-hosted infrastructure`<br>
+`Codex` · `Claude` · `LLM APIs` · `Agent workflows` · `Automation systems`
+
+---
+
+## Let’s connect
+
+I’m interested in collaborating with builders working on AI, open-source software,
+developer tools, infrastructure, and products that make complicated work simpler.
+
+- Explore [SuperK Studios](https://superk.studio)
+- Browse my [public repositories](https://github.com/BeeSting50?tab=repositories)
+- Email me at [keenan.cameron@superk.studio](mailto:keenan.cameron@superk.studio)
+
+> Build useful things, put them to work, and keep making them better.
