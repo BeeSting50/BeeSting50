@@ -9,7 +9,7 @@ to infrastructure, deployment, and the automation that keeps everything moving.
 
 [![SuperK Studios](https://img.shields.io/badge/SuperK_Studios-superk.studio-E11D48?style=for-the-badge)](https://superk.studio)
 [![GitHub](https://img.shields.io/badge/GitHub-BeeSting50-181717?style=for-the-badge&logo=github)](https://github.com/BeeSting50)
-[![Email](https://img.shields.io/badge/Email-keenan.cameron%40superk.studio-0A66C2?style=for-the-badge)](mailto:keenan.c@superk.studio)
+[![Email](https://img.shields.io/badge/Email-keenan.c%40superk.studio-0A66C2?style=for-the-badge)](mailto:keenan.c@superk.studio)
 
 </div>
 
