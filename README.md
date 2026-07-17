@@ -28,7 +28,7 @@ removes busywork, gives people better tools, and can grow into a real product.
 | [SuperK](https://superk.studio) | A connected company workspace for projects, communication, agents, business operations, and automation. |
 | SuperPanel | Self-hosted website and GitHub deployment management without unnecessary platform overhead. |
 | ScamCheck | Tools designed to help people recognize and avoid scams. |
-| Partical | A professional communication platform centered on productive communities. |
+| SuperPrint | A live 3D manufatuer with live printing |
 
 Much of this work is developed in private repositories while it is being prepared for
 release. Public projects and documentation will be linked here as they are ready.
